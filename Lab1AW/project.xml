@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Author="Student" CommentTableSortAscending="false" CommentTableSortColumn="Date Time" Description="&lt;html&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 11px }&#10;      --&gt;&#10;    &lt;/style&gt;&#13;&#10;    &#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;" DocumentationType="html" ExportedFromDifferentName="false" ExporterVersion="12.2" Name="System płacowy" TextualAnalysisHighlightOptionCaseSensitive="false" UmlVersion="2.x" Xml_structure="simple">
+	<ProjectInfo>
+		<LogicalView/>
+		<ProjectOptions>
+			<DiagramOptions ActivityDiagramControlFlowDisplayOption="\u0000" ActivityDiagramShowActionCallBehaviorOption="\u0000" ActivityDiagramShowActivityEdgeWeight="true" ActivityDiagramShowObjectNodeType="true" ActivityDiagramShowPartitionHandle="\u0000" AddDataStoresExtEntitiesToDecomposedDFD="\u0002" AlignColumnProperties="true" AllowConfigShowInOutFlowButtonsInDataFlowDiagram="false" AutoGenerateRoleName="false" AutoSetAttributeType="true" AutoSetColumnType="true" AutoSyncRoleName="true" BpdAutoStretchPools="true" BpdConnectGatewayWithFlowObjectInDifferentPool="\u0000" BpdDefaultConnectionPointStyle="\u0001" BpdDefaultConnectorStyle="\u0005" BpdDhowIdOption="\u0000" BpdShowActivitiesTypeIcon="true" BusinessProcessDiagramDefaultLanguage="English" ClassVisibilityStyle="\u0001" ConnectorLabelOrientation="\u0000" CreateOneMessagePerDirection="true" DecisionMergeNodeConnectionPointStyle="\u0000" DefaultAssociationEndNavigable="\u0001" DefaultAssociationEndVisibility="\u0000" DefaultAssociationShowFromMultiplicity="true" DefaultAssociationShowFromRoleName="true" DefaultAssociationShowFromRoleVisibility="true" DefaultAssociationShowStereotypes="true" DefaultAssociationShowToMultiplicity="true" DefaultAssociationShowToRoleName="true" DefaultAssociationShowToRoleVisibility="true" DefaultAttributeMultiplicity="false" DefaultAttributeType="" DefaultAttributeVisibility="\u0001" DefaultClassAttributeMultiplicity="" DefaultClassAttributeMultiplicityOrdered="false" DefaultClassAttributeMultiplicityUnique="true" DefaultClassInterfaceBall="false" DefaultClassVisibility="\u0004" DefaultColumnType="integer(10)" DefaultConnectionPointStyle="\u0000" DefaultConnectorStyle="\u0001" DefaultDiagramBackground="rgb(255, 255, 255)" DefaultDisplayAsRobustnessAnalysisIcon="true" DefaultDisplayAsRobustnessAnalysisIconInSequenceDiagram="true" DefaultDisplayAsStereotypeIcon="false" DefaultFontColor="rgb(0, 0, 0)" DefaultGenDiagramTypeFromScenario="\u0000" DefaultHtmlDocFontColor="rgb(0, 0, 0)" DefaultLineJumps="\u0000" DefaultOperationVisibility="\u0004" DefaultParameterDirection="\u0002" DefaultShowAttributeInitialValue="true" DefaultShowAttributeOption="\u0001" DefaultShowClassMemberStereotype="true" DefaultShowDirection="false" DefaultShowMultiplicityConstraints="false" DefaultShowOperationOption="\u0001" DefaultShowOperationSignature="true" DefaultShowOrderedMultiplicityConstraint="true" DefaultShowOwnedAssociationEndAsAttribute="true" DefaultShowOwner="false" DefaultShowTemplateParameter="true" DefaultShowTypeOption="\u0001" DefaultShowUniqueMultiplicityConstraint="true" DefaultTypeOfSubProcess="\u0000" DefaultWrapClassMember="false" DrawTextAnnotationOpenRectangleFollowConnectorEnd="true" EnableMinimumSize="true" EntityColumnConstraintsPresentation="\u0002" ErdIndexNumOfDigits="-1" ErdIndexPattern="{table_name}" ErdIndexPatternSyncAutomatically="true" ExpandedSubProcessDiagramContent="\u0001" ForeignKeyArrowHeadSize="\u0002" ForeignKeyConnectorEndPointAssociatedColumn="false" ForeignKeyNamePattern="{reference_table_name}{reference_column_name}" ForeignKeyNamePatternCaseHandling="0" ForeignKeyRelationshipPattern="{association_name}" FractionalMetrics="true" GeneralizationSetNotation="\u0001" GraphicAntiAliasing="true" GridDiagramFontSize="14" LineJumpSize="\u0000" ModelElementNameAlignment="\u0004" MultipleLineClassName="\u0001" PaintConnectorThroughLabel="false" PointConnectorEndToCompartmentMember="true" PrimaryKeyConstraintPattern="" PrimaryKeyNamePattern="ID" RenameConstructorAfterRenameClass="\u0000" RenameExtensionPointToFollowExtendUseCase="\u0000" ShapeAutoFitSize="false" ShowActivationsInSequenceDiagram="true" ShowActivityStateNodeCaption="65535" ShowArtifactOption="\u0002" ShowAssociatedDiagramNameOfInteraction="false" ShowAssociationRoleStereotypes="true" ShowAttributeGetterSetter="false" ShowClassEmptyCompartments="false" ShowColumnNullable="true" ShowColumnType="true" ShowColumnUniqueConstraintName="false" ShowComponentOption="\u0002" ShowExtraColumnProperties="true" ShowInOutFlowButtonsInDataFlowDiagram="false" ShowInOutFlowsInSubLevelDiagram="true" ShowMessageOperationSignatureForSequenceAndCommunicationDiagram="true" ShowMessageStereotypeInSequenceAndCommunicationDiagram="true" ShowNumberInCollaborationDiagram="true" ShowNumberInSequenceDiagram="true" ShowPackageNameStyle="\u0000" ShowParameterNameInOperationSignature="true" ShowRowGridLineWithinCompClassDiagram="false" ShowRowGridLineWithinCompERD="true" ShowRowGridLineWithinORMDiagram="true" ShowSchemaNameInERD="true" ShowTransitionTrigger="\u0000" ShowUseCaseExtensionPoint="true" ShowUseCaseID="false" StateShowPrePostConditionAndBodyOfInternalActivities="true" StopTargetLifelineOnCreateDestroyMessage="\u0002" SupportHtmlTaggedValue="false" SupportMultipleLineAttribute="true" SuppressImpliedMultiplicityForAttributeAssociationEnd="false" SyncAssociationNameWithAssociationClass="\u0000" SyncAssociationRoleNameWithReferencedAttributeName="true" SyncDocOfInterfaceToSubClass="\u0000" TextAntiAliasing="true" TextualAnalysisGenerateRequirementTextOption="\u0001" TextualAnalysisHighlightOption="\u0000" UseStateNameTab="false">
+				<DefaultHtmlDocFont Family="Dialog" Size="11" Style="0"/>
+			</DiagramOptions>
+			<GeneralOptions ConfirmSubLevelIdWithDot="true"/>
+			<InstantReverseOptions CalculateGeneralizationAndRealization="false" CreateShapeForParentModelOfDraggedClassPackage="false" ReverseGetterSetter="\u0000" ReverseOperationImplementation="false" ShowPackageForNewDiagram="\u0001" ShowPackageOwner="\u0000"/>
+			<ModelQualityOptions EnableModelQualityChecking="false"/>
+			<OfficeExchangeOptions GenerateBlankModel="false" GenerateTableOfContent="true" InsertPageBreak="true"/>
+			<ORMOptions DecimalPrecision="19" DecimalScale="0" ExportCommentToDatabase="true" FormattedSQL="false" GenerateAssociationWithAttribute="false" GenerateDiagramFromORMWizards="true" GetterSetterVisibility="\u0000" IdGeneratorType="native" MappingFileColumnOrder="\u0000" NumericToClassType="\u0000" QuoteSQLIdentifier="\u0000" RecreateShapeWhenSync="false" SyncToClassDiagramAttributeName="\u0001" SyncToClassDiagramAttributeNamePrefix="" SyncToClassDiagramAttributeNameSuffix="" SyncToClassDiagramClassName="\u0000" SyncToClassDiagramClassNamePrefix="" SyncToClassDiagramClassNameSuffix="" SyncToERDColumnName="\u0000" SyncToERDColumnNamePrefix="" SyncToERDColumnNameSuffix="" SyncToERDTableName="\u0004" SyncToERDTableNamePrefix="" SyncToERDTableNameSuffix="" SynchronizeDefaultValueToColumn="false" SynchronizeName="\u0002" TablePerSubclassFKMapping="\u0000" UpperCaseSQL="true" UseDefaultDecimal="true" WrappingServletRequest="\u0001"/>
+			<RequirementDiagramOptions DefaultWrapMember="false" ShowAttributes="\u0001" SupportHTMLAttribute="false"/>
+			<StateCodeEngineOptions AutoCreateInitialStateInStateDiagram="true" AutoCreateTransitionMethods="true" DefaultInitialStateLocationX="-1" DefaultInitialStateLocationY="-1" GenerateDebugMessage="false" GenerateSample="true" GenerateTryCatch="true" Language="\u0000" RegenerateTransitionMethods="false" SyncTransitionMethods="true"/>
+			<WarningOptions CreateORMClassInDefaultPackage="true"/>
+			<PORepository>
+				<POUserIDFormats>
+					<POUserIDFormat Digits="2" Guid="false" Id="1TKqFpaFS_ggyAW9" LastNumericValue="0" ModelType="BPMNElement" Prefix="BP" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="1TKqFpaFS_ggyAW." LastNumericValue="7" ModelType="Actor" Prefix="AC" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="1TKqFpaFS_ggyAW_" LastNumericValue="14" ModelType="UseCase" Prefix="UC" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="1TKqFpaFS_ggyAXA" LastNumericValue="0" ModelType="Requirement" Prefix="REQ" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="1TKqFpaFS_ggyAXB" LastNumericValue="0" ModelType="BusinessRule" Prefix="BR" Suffix=""/>
+				</POUserIDFormats>
+			</PORepository>
+		</ProjectOptions>
+	</ProjectInfo>
+	<Models>
+		<DataType Documentation_plain="" Id="2FKqFpaFS_ggyAPH" Name="boolean" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.851" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType Documentation_plain="" Id="XFKqFpaFS_ggyAPI" Name="byte" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.882" PmLastModified="2019-03-10T17:10:41.386" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType Documentation_plain="" Id="XFKqFpaFS_ggyAPJ" Name="char" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.882" PmLastModified="2019-03-10T17:10:41.386" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType Documentation_plain="" Id="XFKqFpaFS_ggyAPK" Name="double" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.882" PmLastModified="2019-03-10T17:10:41.386" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType Documentation_plain="" Id="XFKqFpaFS_ggyAPL" Name="float" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.882" PmLastModified="2019-03-10T17:10:41.386" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType Documentation_plain="" Id="XFKqFpaFS_ggyAPM" Name="int" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.882" PmLastModified="2019-03-10T17:10:41.386" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType Documentation_plain="" Id="XFKqFpaFS_ggyAPN" Name="long" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.882" PmLastModified="2019-03-10T17:10:41.386" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType Documentation_plain="" Id="XFKqFpaFS_ggyAPO" Name="short" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.882" PmLastModified="2019-03-10T17:10:41.386" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType Documentation_plain="" Id="XFKqFpaFS_ggyAPP" Name="void" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.882" PmLastModified="2019-03-10T17:10:41.386" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType Documentation_plain="" Id="XFKqFpaFS_ggyAPQ" Name="string" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:13.882" PmLastModified="2019-03-10T17:10:41.386" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<Stereotype Abstract="false" BaseType="UseCase" Documentation_plain="" Id="PjKqFpaFS_ggyAWl" Leaf="false" Name="UseCase" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:14.460" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" Root="false" UserIDLastNumericValue="0">
+			<TaggedValueDefinitions>
+				<TaggedValueDefinitionContainer Id="PjKqFpaFS_ggyAWm" Name="">
+					<ModelChildren>
+						<TaggedValueDefinition DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="PjKqFpaFS_ggyAWn" Name="Level" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:14.460" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" TagDefStereotype="PjKqFpaFS_ggyAWl" Type="Enumeration" UserIDLastNumericValue="0">
+							<EnumerationValues>
+								<Value Value="Summary"/>
+								<Value Value="User"/>
+								<Value Value="Subfunction"/>
+							</EnumerationValues>
+						</TaggedValueDefinition>
+						<TaggedValueDefinition DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="PjKqFpaFS_ggyAWo" Name="Complexity" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:14.460" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" TagDefStereotype="PjKqFpaFS_ggyAWl" Type="Enumeration" UserIDLastNumericValue="0">
+							<EnumerationValues>
+								<Value Value="Low"/>
+								<Value Value="Medium"/>
+								<Value Value="High"/>
+							</EnumerationValues>
+						</TaggedValueDefinition>
+						<TaggedValueDefinition DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="PjKqFpaFS_ggyAWp" Name="Use Case Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:14.460" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" TagDefStereotype="PjKqFpaFS_ggyAWl" Type="Enumeration" UserIDLastNumericValue="0">
+							<EnumerationValues>
+								<Value Value="Name Only"/>
+								<Value Value="Initial"/>
+								<Value Value="Base"/>
+								<Value Value="Complete"/>
+								<Value Value="Deferred"/>
+							</EnumerationValues>
+						</TaggedValueDefinition>
+						<TaggedValueDefinition DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="PjKqFpaFS_ggyAWq" Name="Implementation Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:14.460" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" TagDefStereotype="PjKqFpaFS_ggyAWl" Type="Enumeration" UserIDLastNumericValue="0">
+							<EnumerationValues>
+								<Value Value="Scheduled"/>
+								<Value Value="Started"/>
+								<Value Value="Partially Complete"/>
+								<Value Value="Complete"/>
+								<Value Value="Partially Deferred"/>
+							</EnumerationValues>
+						</TaggedValueDefinition>
+						<TaggedValueDefinition DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="PjKqFpaFS_ggyAWr" Name="Preconditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:14.460" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" TagDefStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0"/>
+						<TaggedValueDefinition DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="PjKqFpaFS_ggyAWs" Name="Post-conditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:14.460" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" TagDefStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0"/>
+						<TaggedValueDefinition DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="PjKqFpaFS_ggyAWt" Name="Author" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:14.460" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" TagDefStereotype="PjKqFpaFS_ggyAWl" Type="Text" UserIDLastNumericValue="0"/>
+						<TaggedValueDefinition DefaultHTMLValue="" DefaultValue="" Documentation_plain="" Id="PjKqFpaFS_ggyAWu" Name="Assumptions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:14.460" PmLastModified="2019-03-10T17:10:41.401" QualityScore="-1" TagDefStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0"/>
+					</ModelChildren>
+				</TaggedValueDefinitionContainer>
+			</TaggedValueDefinitions>
+		</Stereotype>
+		<System Abstract="false" Documentation_plain="" Id="PREaFpaFS_ggyAX1" Leaf="false" Name="System" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:03:46.492" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" Root="false" UserIDLastNumericValue="0">
+			<MasterView>
+				<System Idref="PREaFpaFS_ggyAX0" Name="System"/>
+			</MasterView>
+			<ModelChildren>
+				<UseCase Abstract="false" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="1Dr6FpaFS_ggyAYB" Justification="" Leaf="false" Name="Logowanie czasu pracy" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:11:13.835" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC01" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="PjKqFpaFS_ggyAWl" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="1Dr6FpaFS_ggyAYD" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue Documentation_plain="" Id="3Dr6FpaFS_ggyAYF" Multiplicity="Unspecified" Name="Level" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:11:13.851" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWn" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="3Dr6FpaFS_ggyAYG" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:11:13.851" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWo" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="3Dr6FpaFS_ggyAYH" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:11:13.851" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWp" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="3Dr6FpaFS_ggyAYI" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:11:13.851" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWq" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="3Dr6FpaFS_ggyAYJ" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:11:13.851" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWr" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="3Dr6FpaFS_ggyAYK" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:11:13.851" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWs" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="3Dr6FpaFS_ggyAYL" Multiplicity="Unspecified" Name="Author" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:11:13.851" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWt" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="3Dr6FpaFS_ggyAYM" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:11:13.851" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWu" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<PrimaryActors>
+						<Actor Idref="89ceFpaFS_ggyAiu" Name="Pracownik "/>
+					</PrimaryActors>
+					<MasterView>
+						<UseCase Idref="1Dr6FpaFS_ggyAYA" Name="Logowanie czasu pracy"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="MbYGFpaFS_ggyAY1" Justification="" Leaf="false" Name="Generowanie raportów administracyjnych" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:23.820" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC03" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="PjKqFpaFS_ggyAWl" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="MbYGFpaFS_ggyAY2" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue Documentation_plain="" Id="MbYGFpaFS_ggyAY3" Multiplicity="Unspecified" Name="Level" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:23.820" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWn" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="MbYGFpaFS_ggyAY4" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:23.820" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWo" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="MbYGFpaFS_ggyAY5" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:23.820" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWp" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="2bYGFpaFS_ggyAY6" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:23.835" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWq" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="2bYGFpaFS_ggyAY7" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:23.835" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWr" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="2bYGFpaFS_ggyAY8" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:23.835" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWs" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="2bYGFpaFS_ggyAY9" Multiplicity="Unspecified" Name="Author" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:23.835" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWt" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="2bYGFpaFS_ggyAY." Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:23.835" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWu" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<PrimaryActors>
+						<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+					</PrimaryActors>
+					<MasterView>
+						<UseCase Idref="MbYGFpaFS_ggyAY0" Name="Generowanie raportów administracyjnych"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="9vcGFpaFS_ggyAZT" Justification="" Leaf="false" Name="Zarzadzanie kartami kontorlnymi" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:57.071" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC04" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="PjKqFpaFS_ggyAWl" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="9vcGFpaFS_ggyAZU" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue Documentation_plain="" Id="9vcGFpaFS_ggyAZV" Multiplicity="Unspecified" Name="Level" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:57.071" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWn" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vcGFpaFS_ggyAZW" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:57.071" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWo" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vcGFpaFS_ggyAZX" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:57.071" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWp" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vcGFpaFS_ggyAZY" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:57.071" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWq" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vcGFpaFS_ggyAZZ" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:57.071" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWr" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vcGFpaFS_ggyAZa" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:57.071" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWs" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vcGFpaFS_ggyAZb" Multiplicity="Unspecified" Name="Author" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:57.071" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWt" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vcGFpaFS_ggyAZc" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:12:57.071" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWu" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<PrimaryActors>
+						<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+					</PrimaryActors>
+					<MasterView>
+						<UseCase Idref="9vcGFpaFS_ggyAZS" Name="Zarzadzanie kartami kontorlnymi"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="rmCGFpaFS_ggyAZm" Justification="" Leaf="false" Name="Wypłata wynagrodzeń" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:02.965" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC05" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="PjKqFpaFS_ggyAWl" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="rmCGFpaFS_ggyAZn" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue Documentation_plain="" Id="rmCGFpaFS_ggyAZo" Multiplicity="Unspecified" Name="Level" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:02.965" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWn" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="rmCGFpaFS_ggyAZp" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:02.965" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWo" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="rmCGFpaFS_ggyAZq" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:02.965" PmLastModified="2019-03-10T17:20:41.726" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWp" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="rmCGFpaFS_ggyAZr" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:02.965" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWq" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="oWCGFpaFS_ggyAZs" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:02.981" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWr" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="oWCGFpaFS_ggyAZt" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:02.981" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWs" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="oWCGFpaFS_ggyAZu" Multiplicity="Unspecified" Name="Author" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:02.981" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWt" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="oWCGFpaFS_ggyAZv" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:02.981" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWu" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<PrimaryActors>
+						<Actor Idref="QyC.FpaFS_ggyAmZ" Name="Bank"/>
+					</PrimaryActors>
+					<MasterView>
+						<UseCase Idref="rmCGFpaFS_ggyAZl" Name="Wypłata wynagrodzeń"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="qmaGFpaFS_ggyAae" Justification="" Leaf="false" Name="Modyfikacja informacji o pracownikach" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:27.509" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC06" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="PjKqFpaFS_ggyAWl" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="qmaGFpaFS_ggyAaf" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue Documentation_plain="" Id="qmaGFpaFS_ggyAag" Multiplicity="Unspecified" Name="Level" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:27.509" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWn" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="qmaGFpaFS_ggyAah" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:27.509" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWo" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="qmaGFpaFS_ggyAai" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:27.509" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWp" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="qmaGFpaFS_ggyAaj" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:27.509" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWq" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="qmaGFpaFS_ggyAak" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:27.509" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWr" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="qmaGFpaFS_ggyAal" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:27.509" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWs" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="qmaGFpaFS_ggyAam" Multiplicity="Unspecified" Name="Author" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:27.509" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWt" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="qmaGFpaFS_ggyAan" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:13:27.509" PmLastModified="2019-03-10T17:20:41.742" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWu" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<PrimaryActors>
+						<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+					</PrimaryActors>
+					<MasterView>
+						<UseCase Idref="qmaGFpaFS_ggyAad" Name="Modyfikacja informacji o pracownikach"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="FGjOFpaFS_ggyAfE" Justification="" Leaf="false" Name="Tworzenie raportu pracownika" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:46.632" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC09" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="PjKqFpaFS_ggyAWl" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="FGjOFpaFS_ggyAfF" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue Documentation_plain="" Id="FGjOFpaFS_ggyAfG" Multiplicity="Unspecified" Name="Level" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:46.632" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWn" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="FGjOFpaFS_ggyAfH" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:46.632" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWo" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="FGjOFpaFS_ggyAfI" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:46.632" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWp" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="FGjOFpaFS_ggyAfJ" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:46.632" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWq" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="FGjOFpaFS_ggyAfK" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:46.632" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWr" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="FGjOFpaFS_ggyAfL" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:46.632" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWs" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="FGjOFpaFS_ggyAfM" Multiplicity="Unspecified" Name="Author" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:46.632" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWt" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="HGjOFpaFS_ggyAfN" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:46.648" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWu" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<PrimaryActors>
+						<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+					</PrimaryActors>
+					<MasterView>
+						<UseCase Idref="FGjOFpaFS_ggyAfD" Name="Tworzenie raportu pracownika"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="9vjOFpaFS_ggyAfV" Justification="" Leaf="false" Name="Zarzadzanie zamowieniem" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:49.007" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC10" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="PjKqFpaFS_ggyAWl" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="9vjOFpaFS_ggyAfW" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue Documentation_plain="" Id="9vjOFpaFS_ggyAfX" Multiplicity="Unspecified" Name="Level" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:49.007" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWn" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vjOFpaFS_ggyAfY" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:49.007" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWo" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vjOFpaFS_ggyAfZ" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:49.007" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWp" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vjOFpaFS_ggyAfa" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:49.007" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWq" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vjOFpaFS_ggyAfb" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:49.007" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWr" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9vjOFpaFS_ggyAfc" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:49.007" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWs" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="_vjOFpaFS_ggyAfd" Multiplicity="Unspecified" Name="Author" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:49.023" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWt" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="_vjOFpaFS_ggyAfe" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:49.023" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWu" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<PrimaryActors>
+						<Actor Idref="89ceFpaFS_ggyAiu" Name="Pracownik "/>
+					</PrimaryActors>
+					<MasterView>
+						<UseCase Idref="9vjOFpaFS_ggyAfU" Name="Zarzadzanie zamowieniem"/>
+					</MasterView>
+				</UseCase>
+				<UseCase Abstract="false" BusinessModel="false" DescNameColumnWidth="0" DescValueColumnWidth="0" Documentation_plain="" Id="9jTOFpaFS_ggyAfm" Justification="" Leaf="false" Name="Zarzadzanie sposobem wyplaty wynagrodzenia" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:52.335" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" Root="false" ScheduleRowHeight="24" Status="Identify" TaskPoolId="0" UcRank="Unspecified" UserID="UC11" UserIDLastNumericValue="0">
+					<Stereotypes>
+						<Stereotype Idref="PjKqFpaFS_ggyAWl" Name="UseCase"/>
+					</Stereotypes>
+					<TaggedValues>
+						<TaggedValueContainer CustomizedOrdering="false" Id="9jTOFpaFS_ggyAfn" Name="" SubLevelTaggedValueCustomizedOrdering="false">
+							<ModelChildren>
+								<TaggedValue Documentation_plain="" Id="9jTOFpaFS_ggyAfo" Multiplicity="Unspecified" Name="Level" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:52.335" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWn" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9jTOFpaFS_ggyAfp" Multiplicity="Unspecified" Name="Complexity" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:52.335" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWo" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9jTOFpaFS_ggyAfq" Multiplicity="Unspecified" Name="Use Case Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:52.335" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWp" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9jTOFpaFS_ggyAfr" Multiplicity="Unspecified" Name="Implementation Status" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:52.335" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWq" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="2" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9jTOFpaFS_ggyAfs" Multiplicity="Unspecified" Name="Preconditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:52.335" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWr" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9jTOFpaFS_ggyAft" Multiplicity="Unspecified" Name="Post-conditions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:52.335" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWs" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9jTOFpaFS_ggyAfu" Multiplicity="Unspecified" Name="Author" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:52.335" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWt" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Text" UserIDLastNumericValue="0" Value=""/>
+								<TaggedValue Documentation_plain="" Id="9jTOFpaFS_ggyAfv" Multiplicity="Unspecified" Name="Assumptions" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:32:52.335" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" TagDefinition="PjKqFpaFS_ggyAWu" TagDefinitionStereotype="PjKqFpaFS_ggyAWl" Type="Multi-line Text" UserIDLastNumericValue="0" Value=""/>
+							</ModelChildren>
+						</TaggedValueContainer>
+					</TaggedValues>
+					<PrimaryActors>
+						<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+					</PrimaryActors>
+					<MasterView>
+						<UseCase Idref="9jTOFpaFS_ggyAfl" Name="Zarzadzanie sposobem wyplaty wynagrodzenia"/>
+					</MasterView>
+				</UseCase>
+			</ModelChildren>
+		</System>
+		<Actor Abstract="false" BusinessModel="false" Documentation_plain="" FontSize="0" Id="89ceFpaFS_ggyAiu" Leaf="false" Name="Pracownik " PmAuthor="Student" PmCreateDateTime="2019-03-10T17:39:09.007" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" Root="false" UserID="AC05" UserIDLastNumericValue="0" Visibility="public">
+			<MasterView>
+				<Actor Idref="89ceFpaFS_ggyAit" Name="Pracownik "/>
+			</MasterView>
+		</Actor>
+		<Actor Abstract="false" BusinessModel="false" Documentation_plain="" FontSize="0" Id="2DueFpaFS_ggyAjK" Leaf="false" Name="Administrator " PmAuthor="Student" PmCreateDateTime="2019-03-10T17:40:10.523" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" Root="false" UserID="AC06" UserIDLastNumericValue="0" Visibility="public">
+			<MasterView>
+				<Actor Idref="2DueFpaFS_ggyAjJ" Name="Administrator "/>
+			</MasterView>
+		</Actor>
+		<Actor Abstract="false" BusinessModel="false" Documentation_plain="" FontSize="0" Id="QyC.FpaFS_ggyAmZ" Leaf="false" Name="Bank" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:37.538" PmLastModified="2019-03-10T17:44:03.257" QualityScore="-1" Root="false" UserID="AC07" UserIDLastNumericValue="0" Visibility="public">
+			<MasterView>
+				<Actor Idref="QyC.FpaFS_ggyAmY" Name="Bank"/>
+			</MasterView>
+		</Actor>
+		<ModelRelationshipContainer Documentation_plain="" Id=".LC.FpaFS_ggyAmn" Name="relationships" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:39.679" PmLastModified="2019-03-10T17:43:39.898" QualityScore="-1" UserIDLastNumericValue="0">
+			<ModelChildren>
+				<ModelRelationshipContainer Documentation_plain="" Id="MbC.FpaFS_ggyAmo" Name="Association" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:39.788" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" UserIDLastNumericValue="0">
+					<ModelChildren>
+						<Association Abstract="false" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="1Dr6FpaFS_ggyAYB" EndRelationshipToMetaModelElement="89ceFpaFS_ggyAiu" Id="OjceFpaFS_ggyAiy" Leaf="false" OrderingInProfile="-1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:39:09.148" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+							<FromEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="1Dr6FpaFS_ggyAYB" Id="OjceFpaFS_ggyAiz" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:39:09.148" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="OjceFpaFS_ggyAi0" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:39:09.148" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<UseCase Idref="1Dr6FpaFS_ggyAYB" Name="Logowanie czasu pracy"/>
+									</Type>
+								</AssociationEnd>
+							</FromEnd>
+							<ToEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="89ceFpaFS_ggyAiu" Id="OjceFpaFS_ggyAi1" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:39:09.148" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="OjceFpaFS_ggyAi2" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:39:09.148" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<Actor Idref="89ceFpaFS_ggyAiu" Name="Pracownik "/>
+									</Type>
+								</AssociationEnd>
+							</ToEnd>
+							<MasterView>
+								<Association Idref="mzceFpaFS_ggyAi3"/>
+							</MasterView>
+						</Association>
+						<Association Abstract="false" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="MbYGFpaFS_ggyAY1" EndRelationshipToMetaModelElement="2DueFpaFS_ggyAjK" Id="FTueFpaFS_ggyAjO" Leaf="false" OrderingInProfile="-1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:40:10.664" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+							<FromEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="MbYGFpaFS_ggyAY1" Id="FTueFpaFS_ggyAjP" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:40:10.664" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="FTueFpaFS_ggyAjQ" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:40:10.664" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<UseCase Idref="MbYGFpaFS_ggyAY1" Name="Generowanie raportów administracyjnych"/>
+									</Type>
+								</AssociationEnd>
+							</FromEnd>
+							<ToEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="2DueFpaFS_ggyAjK" Id="FTueFpaFS_ggyAjR" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:40:10.664" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="FTueFpaFS_ggyAjS" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:40:10.664" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+									</Type>
+								</AssociationEnd>
+							</ToEnd>
+							<MasterView>
+								<Association Idref="oLueFpaFS_ggyAjT"/>
+							</MasterView>
+						</Association>
+						<Association Abstract="false" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="FGjOFpaFS_ggyAfE" EndRelationshipToMetaModelElement="2DueFpaFS_ggyAjK" Id="U_I.FpaFS_ggyAlj" Leaf="false" OrderingInProfile="-1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:42:51.210" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+							<FromEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="FGjOFpaFS_ggyAfE" Id="U_I.FpaFS_ggyAlk" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:42:51.210" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="U_I.FpaFS_ggyAll" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:42:51.210" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<UseCase Idref="FGjOFpaFS_ggyAfE" Name="Tworzenie raportu pracownika"/>
+									</Type>
+								</AssociationEnd>
+							</FromEnd>
+							<ToEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="2DueFpaFS_ggyAjK" Id="U_I.FpaFS_ggyAlm" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:42:51.210" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="U_I.FpaFS_ggyAln" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:42:51.210" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+									</Type>
+								</AssociationEnd>
+							</ToEnd>
+							<MasterView>
+								<Association Idref="HAo.FpaFS_ggyAlo"/>
+							</MasterView>
+						</Association>
+						<Association Abstract="false" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="qmaGFpaFS_ggyAae" EndRelationshipToMetaModelElement="2DueFpaFS_ggyAjK" Id="hmM.FpaFS_ggyAmD" Leaf="false" OrderingInProfile="-1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:21.569" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+							<FromEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="qmaGFpaFS_ggyAae" Id="hmM.FpaFS_ggyAmE" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:21.569" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="hmM.FpaFS_ggyAmF" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:21.569" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<UseCase Idref="qmaGFpaFS_ggyAae" Name="Modyfikacja informacji o pracownikach"/>
+									</Type>
+								</AssociationEnd>
+							</FromEnd>
+							<ToEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="2DueFpaFS_ggyAjK" Id="hmM.FpaFS_ggyAmG" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:21.569" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="hmM.FpaFS_ggyAmH" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:21.569" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+									</Type>
+								</AssociationEnd>
+							</ToEnd>
+							<MasterView>
+								<Association Idref="d2M.FpaFS_ggyAmI"/>
+							</MasterView>
+						</Association>
+						<Association Abstract="false" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="rmCGFpaFS_ggyAZm" EndRelationshipToMetaModelElement="QyC.FpaFS_ggyAmZ" Id="eqC.FpaFS_ggyAmd" Leaf="false" OrderingInProfile="-1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:37.694" PmLastModified="2019-03-10T17:43:39.882" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+							<FromEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="rmCGFpaFS_ggyAZm" Id="eqC.FpaFS_ggyAme" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:37.694" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="eqC.FpaFS_ggyAmf" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:37.694" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<UseCase Idref="rmCGFpaFS_ggyAZm" Name="Wypłata wynagrodzeń"/>
+									</Type>
+								</AssociationEnd>
+							</FromEnd>
+							<ToEnd>
+								<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="QyC.FpaFS_ggyAmZ" Id="eqC.FpaFS_ggyAmg" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:37.694" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+									<Qualifier>
+										<Qualifier Documentation_plain="" Id="eqC.FpaFS_ggyAmh" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:43:37.694" QualityScore="-1" UserIDLastNumericValue="0"/>
+									</Qualifier>
+									<Type>
+										<Actor Idref="QyC.FpaFS_ggyAmZ" Name="Bank"/>
+									</Type>
+								</AssociationEnd>
+							</ToEnd>
+							<MasterView>
+								<Association Idref="M6C.FpaFS_ggyAmi"/>
+							</MasterView>
+						</Association>
+					</ModelChildren>
+				</ModelRelationshipContainer>
+			</ModelChildren>
+		</ModelRelationshipContainer>
+		<Association Abstract="false" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="9vcGFpaFS_ggyAZT" EndRelationshipToMetaModelElement="2DueFpaFS_ggyAjK" Id="PiR.FpaFS_ggyAno" Leaf="false" OrderingInProfile="-1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:44:51.196" PmLastModified="2019-03-10T17:44:51.196" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+			<FromEnd>
+				<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="9vcGFpaFS_ggyAZT" Id="PiR.FpaFS_ggyAnp" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:44:51.196" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier Documentation_plain="" Id="PiR.FpaFS_ggyAnq" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:44:51.196" QualityScore="-1" UserIDLastNumericValue="0"/>
+					</Qualifier>
+					<Type>
+						<UseCase Idref="9vcGFpaFS_ggyAZT" Name="Zarzadzanie kartami kontorlnymi"/>
+					</Type>
+				</AssociationEnd>
+			</FromEnd>
+			<ToEnd>
+				<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="2DueFpaFS_ggyAjK" Id="PiR.FpaFS_ggyAnr" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:44:51.196" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier Documentation_plain="" Id="PiR.FpaFS_ggyAns" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:44:51.196" QualityScore="-1" UserIDLastNumericValue="0"/>
+					</Qualifier>
+					<Type>
+						<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+					</Type>
+				</AssociationEnd>
+			</ToEnd>
+			<MasterView>
+				<Association Idref="nyR.FpaFS_ggyAnt"/>
+			</MasterView>
+		</Association>
+		<Association Abstract="false" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="9jTOFpaFS_ggyAfm" EndRelationshipToMetaModelElement="2DueFpaFS_ggyAjK" Id="IW3.FpaFS_ggyAoS" Leaf="false" OrderingInProfile="-1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:46:34.116" PmLastModified="2019-03-10T17:46:34.116" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+			<FromEnd>
+				<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="9jTOFpaFS_ggyAfm" Id="IW3.FpaFS_ggyAoT" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:46:34.116" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier Documentation_plain="" Id="IW3.FpaFS_ggyAoU" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:46:34.116" QualityScore="-1" UserIDLastNumericValue="0"/>
+					</Qualifier>
+					<Type>
+						<UseCase Idref="9jTOFpaFS_ggyAfm" Name="Zarzadzanie sposobem wyplaty wynagrodzenia"/>
+					</Type>
+				</AssociationEnd>
+			</FromEnd>
+			<ToEnd>
+				<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="2DueFpaFS_ggyAjK" Id="IW3.FpaFS_ggyAoV" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:46:34.116" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier Documentation_plain="" Id="IW3.FpaFS_ggyAoW" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:46:34.116" QualityScore="-1" UserIDLastNumericValue="0"/>
+					</Qualifier>
+					<Type>
+						<Actor Idref="2DueFpaFS_ggyAjK" Name="Administrator "/>
+					</Type>
+				</AssociationEnd>
+			</ToEnd>
+			<MasterView>
+				<Association Idref="gO3.FpaFS_ggyAoX"/>
+			</MasterView>
+		</Association>
+		<Association Abstract="false" Derived="false" Direction="From To" Documentation_plain="" EndRelationshipFromMetaModelElement="9vjOFpaFS_ggyAfV" EndRelationshipToMetaModelElement="89ceFpaFS_ggyAiu" Id="shOBFpaFS_ggyAo6" Leaf="false" OrderingInProfile="-1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:48:49.741" PmLastModified="2019-03-10T17:48:49.741" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+			<FromEnd>
+				<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="9vjOFpaFS_ggyAfV" Id="shOBFpaFS_ggyAo7" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:48:49.741" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier Documentation_plain="" Id="shOBFpaFS_ggyAo8" Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:48:49.741" QualityScore="-1" UserIDLastNumericValue="0"/>
+					</Qualifier>
+					<Type>
+						<UseCase Idref="9vjOFpaFS_ggyAfV" Name="Zarzadzanie zamowieniem"/>
+					</Type>
+				</AssociationEnd>
+			</FromEnd>
+			<ToEnd>
+				<AssociationEnd AggregationKind="None" ConnectToCodeModel="1" Derived="false" DerivedUnion="false" Documentation_plain="" EndModelElement="89ceFpaFS_ggyAiu" Id="shOBFpaFS_ggyAo9" JavaCodeAttributeName="" Leaf="false" Multiplicity="Unspecified" Navigable="Navigable" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:48:49.741" ProvidePropertyGetterMethod="false" ProvidePropertySetterMethod="false" QualityScore="-1" ReadOnly="false" Static="false" TypeModifier="" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<Qualifier>
+						<Qualifier Documentation_plain="" Id="shOBFpaFS_ggyAo." Name="" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:48:49.741" QualityScore="-1" UserIDLastNumericValue="0"/>
+					</Qualifier>
+					<Type>
+						<Actor Idref="89ceFpaFS_ggyAiu" Name="Pracownik "/>
+					</Type>
+				</AssociationEnd>
+			</ToEnd>
+			<MasterView>
+				<Association Idref="mJOBFpaFS_ggyAo_"/>
+			</MasterView>
+		</Association>
+	</Models>
+	<Diagrams>
+		<UseCaseDiagram AlignToGrid="false" AutoFitShapesSize="false" ConnectionPointStyle="0" ConnectorLabelOrientation="0" ConnectorLineJumps="0" ConnectorLineJumpsSize="0" ConnectorStyle="1" DiagramBackground="rgb(255, 255, 255)" Editable="true" FollowDiagramParentElement="true" GridColor="rgb(192, 192, 192)" GridHeight="10" GridVisible="false" GridWidth="10" Height="876" HideEmptyTaggedValues="false" Id="_s4aFpaFS_ggyAXX" ImageHeight="0" ImageScale="1.0" ImageWidth="0" InitializeDiagramForCreate="true" Maximized="true" ModelElementNameAlignment="4" Name="System płacowy - przypadek 1" PaintConnectorThroughLabel="1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:03:41.055" PmLastModified="2019-03-10T17:50:33.648" PointConnectorEndToCompartmentMember="true" QualityScore="-1" RequestValidateSnapToGrid="false" ShapePresentationOption="0" ShowActivityStateNodeCaption="65535" ShowAllocatedFrom="true" ShowAllocatedTo="true" ShowConnectorName="0" ShowConstraints="false" ShowDefaultPackage="false" ShowExtendCondition="false" ShowPMAuthor="false" ShowPMDifficulty="false" ShowPMDiscipline="false" ShowPMIteration="false" ShowPMPhase="false" ShowPMPriority="false" ShowPMStatus="false" ShowPMVersion="false" ShowPackageNameStyle="0" ShowShapeStereotypeIconName="true" ShowStereotypes="true" ShowTaggedValues="false" ShowUseCaseExtensionPoint="true" ShowUseCaseId="false" TeamworkCreateDateTime="0" TrimmedHeight="0" TrimmedWidth="0" UseCaseDisplayOption="0" Width="956" X="0" Y="0" ZoomRatio="1.0" _actorDisplayOption="0" _alwaysShowReferenceAndSubdiagramResource="true" _globalPaletteOption="true" documentation="&lt;html&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 11px }&#10;      --&gt;&#10;    &lt;/style&gt;&#13;&#10;    &#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;    &lt;p&gt;&#13;&#10;      &#13;&#10;    &lt;/p&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;">
+			<Shapes>
+				<System Background="rgb(122, 207, 245)" CaptionAlignment="0" ConnectToPoint="true" ConnectionPointType="2" Foreground="rgb(0, 0, 0)" Height="344" Id="PREaFpaFS_ggyAX0" MetaModelElement="PREaFpaFS_ggyAX1" Model="PREaFpaFS_ggyAX1" ModelElementNameAlignment="1" Name="System" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="492" X="259" Y="154" ZOrder="23">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="344" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="492" X="0" Y="0"/>
+					<DiagramElementChildren>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="54" Id="1Dr6FpaFS_ggyAYA" MetaModelElement="1Dr6FpaFS_ggyAYB" Model="1Dr6FpaFS_ggyAYB" ModelElementNameAlignment="9" Name="Logowanie czasu pracy" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="90" X="350" Y="413" ZOrder="21">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="54" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="90" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="56" Id="MbYGFpaFS_ggyAY0" MetaModelElement="MbYGFpaFS_ggyAY1" Model="MbYGFpaFS_ggyAY1" ModelElementNameAlignment="9" Name="Generowanie raportów administracyjnych" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="106" X="313" Y="179" ZOrder="19">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="56" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="106" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="48" Id="9vcGFpaFS_ggyAZS" MetaModelElement="9vcGFpaFS_ggyAZT" Model="9vcGFpaFS_ggyAZT" ModelElementNameAlignment="9" Name="Zarzadzanie kartami kontorlnymi" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="86" X="304" Y="309" ZOrder="17">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="48" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="86" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="61" Id="rmCGFpaFS_ggyAZl" MetaModelElement="rmCGFpaFS_ggyAZm" Model="rmCGFpaFS_ggyAZm" ModelElementNameAlignment="9" Name="Wypłata wynagrodzeń" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="109" X="622" Y="174" ZOrder="15">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="61" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="109" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="53" Id="qmaGFpaFS_ggyAad" MetaModelElement="qmaGFpaFS_ggyAae" Model="qmaGFpaFS_ggyAae" ModelElementNameAlignment="9" Name="Modyfikacja informacji o pracownikach" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="99" X="482" Y="179" ZOrder="13">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="53" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="99" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="61" Id="FGjOFpaFS_ggyAfD" MetaModelElement="FGjOFpaFS_ggyAfE" Model="FGjOFpaFS_ggyAfE" ModelElementNameAlignment="9" Name="Tworzenie raportu pracownika" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="104" X="471" Y="296" ZOrder="11">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="61" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="104" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="50" Id="9vjOFpaFS_ggyAfU" MetaModelElement="9vjOFpaFS_ggyAfV" Model="9vjOFpaFS_ggyAfV" ModelElementNameAlignment="9" Name="Zarzadzanie zamowieniem" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="97" X="594" Y="417" ZOrder="8">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="50" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="97" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+						<UseCase Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="50" Id="9jTOFpaFS_ggyAfl" MetaModelElement="9jTOFpaFS_ggyAfm" Model="9jTOFpaFS_ggyAfm" ModelElementNameAlignment="9" Name="Zarzadzanie sposobem wyplaty wynagrodzenia" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowExtensionPoint="true" ShowStereotypeIconName="0" Width="110" X="621" Y="296" ZOrder="6">
+							<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+							<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+								<Stroke/>
+							</Line>
+							<Caption Height="50" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="Center" Visible="true" Width="110" X="0" Y="0"/>
+							<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+						</UseCase>
+					</DiagramElementChildren>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+				</System>
+				<Actor Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CreatorDiagramType="UseCaseDiagram" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="60" Id="89ceFpaFS_ggyAit" MetaModelElement="89ceFpaFS_ggyAiu" Model="89ceFpaFS_ggyAiu" ModelElementNameAlignment="9" Name="Pracownik " OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="30" X="49" Y="216" ZOrder="4">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="South" Visible="true" Width="74" X="27" Y="276"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+				</Actor>
+				<Actor Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CreatorDiagramType="UseCaseDiagram" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="60" Id="2DueFpaFS_ggyAjJ" MetaModelElement="2DueFpaFS_ggyAjK" Model="2DueFpaFS_ggyAjK" ModelElementNameAlignment="9" Name="Administrator " OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="30" X="90" Y="94" ZOrder="2">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="South" Visible="true" Width="88" X="61" Y="154"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+				</Actor>
+				<Actor Background="rgb(122, 207, 245)" ConnectToPoint="true" ConnectionPointType="2" CreatorDiagramType="UseCaseDiagram" DisplayOption="3" Foreground="rgb(0, 0, 0)" Height="60" Id="QyC.FpaFS_ggyAmY" MetaModelElement="QyC.FpaFS_ggyAmZ" Model="QyC.FpaFS_ggyAmZ" ModelElementNameAlignment="9" Name="Bank" OverrideAppearanceWithStereotypeIcon="true" ParentConnectorDTheta="0.0" ParentConnectorHeaderLength="40" ParentConnectorLineLength="10" PresentationOption="4" PrimitiveShapeType="0" RequestDefaultSize="false" RequestFitSize="false" RequestFitSizeFromCenter="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" RequestSetSizeOption="0" Selectable="true" ShowAllocatedFrom="0" ShowAllocatedTo="0" ShowStereotypeIconName="0" Width="30" X="594" Y="22" ZOrder="0">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="15" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="South" Visible="true" Width="46" X="586" Y="82"/>
+					<FillColor Color="rgb(122, 207, 245)" Style="1" Transparency="0" Type="1"/>
+				</Actor>
+			</Shapes>
+			<Connectors>
+				<Association AssociationEndPropertyStringsAInternalHeight="-2147483648" AssociationEndPropertyStringsAInternalWidth="-2147483648" AssociationEndPropertyStringsBInternalHeight="-2147483648" AssociationEndPropertyStringsBInternalWidth="-2147483648" Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="UseCaseDiagram" Foreground="rgb(0, 0, 0)" From="1Dr6FpaFS_ggyAYA" FromConnectType="0" FromMultiplicityInternalHeight="-2147483648" FromMultiplicityInternalWidth="-2147483648" FromPinType="1" FromRoleInternalHeight="-2147483648" FromRoleInternalWidth="-2147483648" FromShapeXDiff="0" FromShapeYDiff="0" HasAssociationEndPropertyStringsAShape="false" HasAssociationEndPropertyStringsBShape="false" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="229" Id="mzceFpaFS_ggyAi3" MetaModelElement="OjceFpaFS_ggyAiy" Model="OjceFpaFS_ggyAiy" PaintThroughLabel="2" RequestRebuild="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowAssociationEndPropertyStrings="false" ShowConnectorName="2" ShowDirection="false" ShowFromMultiplicity="true" ShowFromRoleName="true" ShowFromRoleVisibility="true" ShowMultiplicityConstraints="false" ShowNavigationArrows="0" ShowOrderedMultiplicityConstraint="true" ShowStereotypes="true" ShowToMultiplicity="true" ShowToRoleName="true" ShowToRoleVisibility="true" ShowUniqueMultiplicityConstraint="true" SuppressImplied1MultiplicityForAssociationEnd="0" To="89ceFpaFS_ggyAit" ToConnectType="0" ToMultiplicityInternalHeight="-2147483648" ToMultiplicityInternalWidth="-2147483648" ToPinType="1" ToRoleInternalHeight="-2147483648" ToRoleInternalWidth="-2147483648" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="363" X="51" Y="241" ZOrder="-1">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="0" X="236" Y="357"/>
+					<Points>
+						<Point X="364.0" Y="420.0"/>
+						<Point X="101.0" Y="291.0"/>
+					</Points>
+				</Association>
+				<Association AssociationEndPropertyStringsAInternalHeight="-2147483648" AssociationEndPropertyStringsAInternalWidth="-2147483648" AssociationEndPropertyStringsBInternalHeight="-2147483648" AssociationEndPropertyStringsBInternalWidth="-2147483648" Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="UseCaseDiagram" Foreground="rgb(0, 0, 0)" From="MbYGFpaFS_ggyAY0" FromConnectType="0" FromMultiplicityInternalHeight="-2147483648" FromMultiplicityInternalWidth="-2147483648" FromPinType="1" FromRoleInternalHeight="-2147483648" FromRoleInternalWidth="-2147483648" FromShapeXDiff="0" FromShapeYDiff="0" HasAssociationEndPropertyStringsAShape="false" HasAssociationEndPropertyStringsBShape="false" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="112" Id="oLueFpaFS_ggyAjT" MetaModelElement="FTueFpaFS_ggyAjO" Model="FTueFpaFS_ggyAjO" PaintThroughLabel="2" RequestRebuild="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowAssociationEndPropertyStrings="false" ShowConnectorName="2" ShowDirection="false" ShowFromMultiplicity="true" ShowFromRoleName="true" ShowFromRoleVisibility="true" ShowMultiplicityConstraints="false" ShowNavigationArrows="0" ShowOrderedMultiplicityConstraint="true" ShowStereotypes="true" ShowToMultiplicity="true" ShowToRoleName="true" ShowToRoleVisibility="true" ShowUniqueMultiplicityConstraint="true" SuppressImplied1MultiplicityForAssociationEnd="0" To="2DueFpaFS_ggyAjJ" ToConnectType="0" ToMultiplicityInternalHeight="-2147483648" ToMultiplicityInternalWidth="-2147483648" ToPinType="1" ToRoleInternalHeight="-2147483648" ToRoleInternalWidth="-2147483648" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="297" X="99" Y="119" ZOrder="-1">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="0" X="259" Y="176"/>
+					<Points>
+						<Point X="346.0" Y="181.0"/>
+						<Point X="149.0" Y="169.0"/>
+					</Points>
+				</Association>
+				<Association AssociationEndPropertyStringsAInternalHeight="-2147483648" AssociationEndPropertyStringsAInternalWidth="-2147483648" AssociationEndPropertyStringsBInternalHeight="-2147483648" AssociationEndPropertyStringsBInternalWidth="-2147483648" Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="UseCaseDiagram" Foreground="rgb(0, 0, 0)" From="FGjOFpaFS_ggyAfD" FromConnectType="0" FromMultiplicityInternalHeight="-2147483648" FromMultiplicityInternalWidth="-2147483648" FromPinType="1" FromRoleInternalHeight="-2147483648" FromRoleInternalWidth="-2147483648" FromShapeXDiff="0" FromShapeYDiff="0" HasAssociationEndPropertyStringsAShape="false" HasAssociationEndPropertyStringsBShape="false" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="234" Id="HAo.FpaFS_ggyAlo" MetaModelElement="U_I.FpaFS_ggyAlj" Model="U_I.FpaFS_ggyAlj" PaintThroughLabel="2" RequestRebuild="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowAssociationEndPropertyStrings="false" ShowConnectorName="2" ShowDirection="false" ShowFromMultiplicity="true" ShowFromRoleName="true" ShowFromRoleVisibility="true" ShowMultiplicityConstraints="false" ShowNavigationArrows="0" ShowOrderedMultiplicityConstraint="true" ShowStereotypes="true" ShowToMultiplicity="true" ShowToRoleName="true" ShowToRoleVisibility="true" ShowUniqueMultiplicityConstraint="true" SuppressImplied1MultiplicityForAssociationEnd="0" To="2DueFpaFS_ggyAjJ" ToConnectType="0" ToMultiplicityInternalHeight="-2147483648" ToMultiplicityInternalWidth="-2147483648" ToPinType="1" ToRoleInternalHeight="-2147483648" ToRoleInternalWidth="-2147483648" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="440" X="99" Y="119" ZOrder="-1">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="20" X="309" Y="236"/>
+					<Points>
+						<Point X="489.0" Y="303.0"/>
+						<Point X="149.0" Y="169.0"/>
+					</Points>
+				</Association>
+				<Association AssociationEndPropertyStringsAInternalHeight="-2147483648" AssociationEndPropertyStringsAInternalWidth="-2147483648" AssociationEndPropertyStringsBInternalHeight="-2147483648" AssociationEndPropertyStringsBInternalWidth="-2147483648" Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="UseCaseDiagram" Foreground="rgb(0, 0, 0)" From="qmaGFpaFS_ggyAad" FromConnectType="0" FromMultiplicityInternalHeight="-2147483648" FromMultiplicityInternalWidth="-2147483648" FromPinType="1" FromRoleInternalHeight="-2147483648" FromRoleInternalWidth="-2147483648" FromShapeXDiff="0" FromShapeYDiff="0" HasAssociationEndPropertyStringsAShape="false" HasAssociationEndPropertyStringsBShape="false" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="111" Id="d2M.FpaFS_ggyAmI" MetaModelElement="hmM.FpaFS_ggyAmD" Model="hmM.FpaFS_ggyAmD" PaintThroughLabel="2" RequestRebuild="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowAssociationEndPropertyStrings="false" ShowConnectorName="2" ShowDirection="false" ShowFromMultiplicity="true" ShowFromRoleName="true" ShowFromRoleVisibility="true" ShowMultiplicityConstraints="false" ShowNavigationArrows="0" ShowOrderedMultiplicityConstraint="true" ShowStereotypes="true" ShowToMultiplicity="true" ShowToRoleName="true" ShowToRoleVisibility="true" ShowUniqueMultiplicityConstraint="true" SuppressImplied1MultiplicityForAssociationEnd="0" To="2DueFpaFS_ggyAjJ" ToConnectType="0" ToMultiplicityInternalHeight="-2147483648" ToMultiplicityInternalWidth="-2147483648" ToPinType="1" ToRoleInternalHeight="-2147483648" ToRoleInternalWidth="-2147483648" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="468" X="99" Y="119" ZOrder="-1">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="20" X="323" Y="175"/>
+					<Points>
+						<Point X="517.0" Y="180.0"/>
+						<Point X="149.0" Y="169.0"/>
+					</Points>
+				</Association>
+				<Association AssociationEndPropertyStringsAInternalHeight="-2147483648" AssociationEndPropertyStringsAInternalWidth="-2147483648" AssociationEndPropertyStringsBInternalHeight="-2147483648" AssociationEndPropertyStringsBInternalWidth="-2147483648" Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="UseCaseDiagram" Foreground="rgb(0, 0, 0)" From="rmCGFpaFS_ggyAZl" FromConnectType="0" FromMultiplicityInternalHeight="-2147483648" FromMultiplicityInternalWidth="-2147483648" FromPinType="1" FromRoleInternalHeight="-2147483648" FromRoleInternalWidth="-2147483648" FromShapeXDiff="0" FromShapeYDiff="0" HasAssociationEndPropertyStringsAShape="false" HasAssociationEndPropertyStringsBShape="false" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="201" Id="M6C.FpaFS_ggyAmi" MetaModelElement="eqC.FpaFS_ggyAmd" Model="eqC.FpaFS_ggyAmd" PaintThroughLabel="2" RequestRebuild="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowAssociationEndPropertyStrings="false" ShowConnectorName="2" ShowDirection="false" ShowFromMultiplicity="true" ShowFromRoleName="true" ShowFromRoleVisibility="true" ShowMultiplicityConstraints="false" ShowNavigationArrows="0" ShowOrderedMultiplicityConstraint="true" ShowStereotypes="true" ShowToMultiplicity="true" ShowToRoleName="true" ShowToRoleVisibility="true" ShowUniqueMultiplicityConstraint="true" SuppressImplied1MultiplicityForAssociationEnd="0" To="QyC.FpaFS_ggyAmY" ToConnectType="0" ToMultiplicityInternalHeight="-2147483648" ToMultiplicityInternalWidth="-2147483648" ToPinType="1" ToRoleInternalHeight="-2147483648" ToRoleInternalWidth="-2147483648" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="100" X="573" Y="47" ZOrder="-1">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="0" X="643" Y="168"/>
+					<Points>
+						<Point X="623.0" Y="198.0"/>
+						<Point X="623.0" Y="97.0"/>
+					</Points>
+				</Association>
+				<Association AssociationEndPropertyStringsAInternalHeight="-2147483648" AssociationEndPropertyStringsAInternalWidth="-2147483648" AssociationEndPropertyStringsBInternalHeight="-2147483648" AssociationEndPropertyStringsBInternalWidth="-2147483648" Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="UseCaseDiagram" Foreground="rgb(0, 0, 0)" From="9vcGFpaFS_ggyAZS" FromConnectType="0" FromMultiplicityInternalHeight="-2147483648" FromMultiplicityInternalWidth="-2147483648" FromPinType="1" FromRoleInternalHeight="-2147483648" FromRoleInternalWidth="-2147483648" FromShapeXDiff="0" FromShapeYDiff="0" HasAssociationEndPropertyStringsAShape="false" HasAssociationEndPropertyStringsBShape="false" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="249" Id="nyR.FpaFS_ggyAnt" MetaModelElement="PiR.FpaFS_ggyAno" Model="PiR.FpaFS_ggyAno" PaintThroughLabel="2" RequestRebuild="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowAssociationEndPropertyStrings="false" ShowConnectorName="2" ShowDirection="false" ShowFromMultiplicity="true" ShowFromRoleName="true" ShowFromRoleVisibility="true" ShowMultiplicityConstraints="false" ShowNavigationArrows="0" ShowOrderedMultiplicityConstraint="true" ShowStereotypes="true" ShowToMultiplicity="true" ShowToRoleName="true" ShowToRoleVisibility="true" ShowUniqueMultiplicityConstraint="true" SuppressImplied1MultiplicityForAssociationEnd="0" To="2DueFpaFS_ggyAjJ" ToConnectType="0" ToMultiplicityInternalHeight="-2147483648" ToMultiplicityInternalWidth="-2147483648" ToPinType="1" ToRoleInternalHeight="-2147483648" ToRoleInternalWidth="-2147483648" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="265" X="99" Y="119" ZOrder="-1">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="20" X="222" Y="243"/>
+					<Points>
+						<Point X="314.0" Y="318.0"/>
+						<Point X="149.0" Y="169.0"/>
+					</Points>
+				</Association>
+				<Association AssociationEndPropertyStringsAInternalHeight="-2147483648" AssociationEndPropertyStringsAInternalWidth="-2147483648" AssociationEndPropertyStringsBInternalHeight="-2147483648" AssociationEndPropertyStringsBInternalWidth="-2147483648" Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="UseCaseDiagram" Foreground="rgb(0, 0, 0)" From="9jTOFpaFS_ggyAfl" FromConnectType="0" FromMultiplicityInternalHeight="-2147483648" FromMultiplicityInternalWidth="-2147483648" FromPinType="1" FromRoleInternalHeight="-2147483648" FromRoleInternalWidth="-2147483648" FromShapeXDiff="0" FromShapeYDiff="0" HasAssociationEndPropertyStringsAShape="false" HasAssociationEndPropertyStringsBShape="false" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="232" Id="gO3.FpaFS_ggyAoX" MetaModelElement="IW3.FpaFS_ggyAoS" Model="IW3.FpaFS_ggyAoS" PaintThroughLabel="2" RequestRebuild="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowAssociationEndPropertyStrings="false" ShowConnectorName="2" ShowDirection="false" ShowFromMultiplicity="true" ShowFromRoleName="true" ShowFromRoleVisibility="true" ShowMultiplicityConstraints="false" ShowNavigationArrows="0" ShowOrderedMultiplicityConstraint="true" ShowStereotypes="true" ShowToMultiplicity="true" ShowToRoleName="true" ShowToRoleVisibility="true" ShowUniqueMultiplicityConstraint="true" SuppressImplied1MultiplicityForAssociationEnd="0" To="2DueFpaFS_ggyAjJ" ToConnectType="0" ToMultiplicityInternalHeight="-2147483648" ToMultiplicityInternalWidth="-2147483648" ToPinType="1" ToRoleInternalHeight="-2147483648" ToRoleInternalWidth="-2147483648" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="592" X="99" Y="119" ZOrder="-1">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="20" X="386" Y="235"/>
+					<Points>
+						<Point X="641.0" Y="301.0"/>
+						<Point X="149.0" Y="169.0"/>
+					</Points>
+				</Association>
+				<Association AssociationEndPropertyStringsAInternalHeight="-2147483648" AssociationEndPropertyStringsAInternalWidth="-2147483648" AssociationEndPropertyStringsBInternalHeight="-2147483648" AssociationEndPropertyStringsBInternalWidth="-2147483648" Background="rgb(122, 207, 245)" ConnectorLabelOrientation="4" ConnectorLineJumps="4" ConnectorStyle="Follow Diagram" CreatorDiagramType="UseCaseDiagram" Foreground="rgb(0, 0, 0)" From="9vjOFpaFS_ggyAfU" FromConnectType="0" FromMultiplicityInternalHeight="-2147483648" FromMultiplicityInternalWidth="-2147483648" FromPinType="1" FromRoleInternalHeight="-2147483648" FromRoleInternalWidth="-2147483648" FromShapeXDiff="0" FromShapeYDiff="0" HasAssociationEndPropertyStringsAShape="false" HasAssociationEndPropertyStringsBShape="false" HasMultiplicityAShape="false" HasMultiplicityBShape="false" HasRoleAShape="false" HasRoleBShape="false" Height="231" Id="mJOBFpaFS_ggyAo_" MetaModelElement="shOBFpaFS_ggyAo6" Model="shOBFpaFS_ggyAo6" PaintThroughLabel="2" RequestRebuild="false" RequestResetCaption="false" RequestResetCaptionFitWidth="false" RequestResetCaptionSize="false" Selectable="true" ShowAssociationEndPropertyStrings="false" ShowConnectorName="2" ShowDirection="false" ShowFromMultiplicity="true" ShowFromRoleName="true" ShowFromRoleVisibility="true" ShowMultiplicityConstraints="false" ShowNavigationArrows="0" ShowOrderedMultiplicityConstraint="true" ShowStereotypes="true" ShowToMultiplicity="true" ShowToRoleName="true" ShowToRoleVisibility="true" ShowUniqueMultiplicityConstraint="true" SuppressImplied1MultiplicityForAssociationEnd="0" To="89ceFpaFS_ggyAit" ToConnectType="0" ToMultiplicityInternalHeight="-2147483648" ToMultiplicityInternalWidth="-2147483648" ToPinType="1" ToRoleInternalHeight="-2147483648" ToRoleInternalWidth="-2147483648" ToShapeXDiff="0" ToShapeYDiff="0" UseFromShapeCenter="true" UseToShapeCenter="true" Width="612" X="51" Y="241" ZOrder="-1">
+					<ElementFont Color="rgb(0, 0, 0)" Name="Dialog" Size="11" Style="0"/>
+					<Line Cap="0" Color="rgb(0, 0, 0)" Transparency="0" Weight="1.0">
+						<Stroke/>
+					</Line>
+					<Caption Height="0" InternalHeight="-2147483648" InternalWidth="-2147483648" Side="None" Visible="true" Width="20" X="347" Y="356"/>
+					<Points>
+						<Point X="613.0" Y="422.0"/>
+						<Point X="101.0" Y="291.0"/>
+					</Points>
+				</Association>
+			</Connectors>
+		</UseCaseDiagram>
+		<ClassDiagram AlignToGrid="false" AutoFitShapesSize="false" ConnectionPointStyle="0" ConnectorLabelOrientation="0" ConnectorLineJumps="0" ConnectorLineJumpsSize="0" ConnectorStyle="1" DiagramBackground="rgb(255, 255, 255)" Editable="true" FollowDiagramParentElement="true" GeneralizationSetNotation="2" GridColor="rgb(192, 192, 192)" GridHeight="10" GridVisible="false" GridWidth="10" Height="876" HideEmptyTaggedValues="false" Id="B8qqFpaFS_ggyAXC" ImageHeight="0" ImageScale="1.0" ImageWidth="0" InitializeDiagramForCreate="true" Maximized="false" ModelElementNameAlignment="4" Name="Class Diagram1" PaintConnectorThroughLabel="1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:16.352" PmLastModified="2019-03-10T17:43:39.898" PointConnectorEndToCompartmentMember="true" QualityScore="-1" RequestValidateSnapToGrid="false" ShapePresentationOption="0" ShowActivityStateNodeCaption="65535" ShowAllocatedFrom="true" ShowAllocatedTo="true" ShowAssociationNavigationArrows="3" ShowAttributeGetterSetter="false" ShowAttributesCodeDetails="2" ShowAttributesPropertyModifiers="2" ShowAttributesType="1" ShowClassEmptyCompartments="2" ShowClassOwner="2" ShowConnectorName="0" ShowConstraints="false" ShowDefaultPackage="true" ShowEllipsisForUnshownClassMembers="2" ShowOperationsCodeDetails="2" ShowOperationsParameters="1" ShowOperationsReturnType="1" ShowPMAuthor="false" ShowPMDifficulty="false" ShowPMDiscipline="false" ShowPMIteration="false" ShowPMPhase="false" ShowPMPriority="false" ShowPMStatus="false" ShowPMVersion="false" ShowPackageNameStyle="0" ShowPackageOwner="2" ShowParametersCodeDetails="2" ShowShapeStereotypeIconName="true" ShowStereotypes="true" ShowTaggedValues="false" ShowTemplateInfoOfGeneralizationAndRealization="false" SuppressImplied1MultiplicityForAttributeAndAssociationEnd="false" TeamworkCreateDateTime="0" TrimmedHeight="0" TrimmedWidth="0" Width="956" X="0" Y="0" ZoomRatio="1.0" _alwaysShowReferenceAndSubdiagramResource="true" _globalPaletteOption="true"/>
+		<CommunicationDiagram AlignToGrid="false" AutoFitShapesSize="false" ConnectionPointStyle="0" ConnectorLabelOrientation="0" ConnectorLineJumps="0" ConnectorLineJumpsSize="0" ConnectorStyle="1" CreateOneMessagePerDirection="true" DiagramBackground="rgb(255, 255, 255)" Editable="true" FollowDiagramParentElement="true" GridColor="rgb(192, 192, 192)" GridHeight="10" GridVisible="false" GridWidth="10" Height="876" HideEmptyTaggedValues="false" Id="oPGqFpaFS_ggyAXK" ImageHeight="0" ImageScale="1.0" ImageWidth="0" InitializeDiagramForCreate="true" InteractionLifeLinePresentationOption="0" Maximized="false" ModelElementNameAlignment="4" Name="Communication Diagram1" PaintConnectorThroughLabel="1" PmAuthor="Student" PmCreateDateTime="2019-03-10T17:00:31.493" PmLastModified="2019-03-10T17:43:39.898" PointConnectorEndToCompartmentMember="true" QualityScore="-1" RequestValidateSnapToGrid="false" ShapePresentationOption="0" ShowActivityStateNodeCaption="65535" ShowAllocatedFrom="true" ShowAllocatedTo="true" ShowArgumentsInMessagesOperationSignature="true" ShowConnectorName="0" ShowConstraints="false" ShowDefaultPackage="false" ShowMessagesOperationSignature="true" ShowPMAuthor="false" ShowPMDifficulty="false" ShowPMDiscipline="false" ShowPMIteration="false" ShowPMPhase="false" ShowPMPriority="false" ShowPMStatus="false" ShowPMVersion="false" ShowPackageNameStyle="0" ShowParameterNamesInMessageOperationSignature="true" ShowParameterTypesInMessageOperationSignature="true" ShowSequenceNumbers="true" ShowShapeStereotypeIconName="true" ShowStereotypes="true" ShowTaggedValues="false" TeamworkCreateDateTime="0" TrimmedHeight="0" TrimmedWidth="0" Width="956" X="0" Y="0" ZoomRatio="1.0" _alwaysShowReferenceAndSubdiagramResource="true" _globalPaletteOption="true" _rootFrame="KPGqFpaFS_ggyAXO" documentation="&lt;html&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 11px }&#10;      --&gt;&#10;    &lt;/style&gt;&#13;&#10;    &#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;    &lt;p&gt;&#13;&#10;      &#13;&#10;    &lt;/p&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;"/>
+	</Diagrams>
+</Project>
